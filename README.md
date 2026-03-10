@@ -1,6 +1,6 @@
-# 🧾 Memoir-backend
+# 🧾 Memoir
 
-**당신의 흩어진 웹 기록을 한 페이지의 인사이트로, AI 기반 디지털 회고록 서비스**
+**웹 기록으로 정리하는 오늘 하루, 나의 회고록 서비스**
 
 > [제2회 전국대학 소프트웨어 성과 공유포럼] 동아대학교 소프트웨어 혁신센터장상(우수상) 수상 🥈
 > 
@@ -95,6 +95,6 @@ com.univ.memoir
 
 | [이호연](https://github.com/howooyeon) | [한다은](https://github.com/daeun-han) |
 |:------------------------------------:|:-------------------------:|
-| <a href="https://github.com/howooyeon"><img src="https://github.com/howooyeon.png" width="250px;" alt="이호연 프로필"/></a> | <a href="https://github.com/daeun-han"><img src="https://github.com/daeun-han.png" width="250px;" alt="한다은 프로필"/></a> |
+| <a href="https://github.com/howooyeon"><img src="https://github.com/howooyeon.png" width="200px;" alt="이호연 프로필"/></a> | <a href="https://github.com/daeun-han"><img src="https://github.com/daeun-han.png" width="200px;" alt="한다은 프로필"/></a> |
 | **Backend Engineer** | **Backend Engineer** |
 | `OpenAI API 아키텍처 설계` <br> `OAuth2 / JWT 보안 시스템` <br> `인프라 구축 및 배포 자동화` | `월별 / 일별 상세 조회 API` <br> `사용 시간 통계 연산 로직` <br> `DB 조회 성능 최적화 전략` |
